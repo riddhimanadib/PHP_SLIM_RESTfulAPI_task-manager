@@ -1,6 +1,6 @@
 # rest-api-task-manager
 
-This is sample RESTful api that you can follow and use to make your own api. I've followed and read through a series of tutorials on the web to get to know about and build my own RESTful api. Please finish each of them, and only then move to the next part to clearly understand the total process.
+This is a sample of RESTful api that you can follow and use to make your own api. I've followed and read through a series of tutorials on the web to get to know about and build my own RESTful api. Please finish each of them, and only then move to the next part to clearly understand the total process.
 
 The basic guideline to start working with RESTful api is:
 
